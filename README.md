@@ -28,10 +28,10 @@ A simple and user-friendly web-based cron schedule editor built with React. This
 To run locally:
 
 ```bash
-git clone https://github.com/aselya9185/cron-schedule-editor.git
-cd cron-schedule-editor
-npm install
-npm start
+  git clone https://github.com/aselya9185/cron-schedule-editor.git
+  cd cron-schedule-editor
+  npm install
+  npm start
 
 
 ## Usage
