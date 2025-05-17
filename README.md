@@ -2,7 +2,7 @@
 
 A simple and user-friendly web-based cron schedule editor built with React. This tool allows users to visually construct cron expressions for task automation.
 
-**Live Demo**: [https://cron-schedule-editor.vercel.app/](https://cron-schedule-editor.vercel.app/)
+**Live Demo**: [Cron Schedule Editor](https://cron-schedule-editor.vercel.app/)
 
 ---
 
