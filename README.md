@@ -2,7 +2,7 @@
 
 A simple and user-friendly web-based cron schedule editor built with React. This tool allows users to visually construct cron expressions for task automation.
 
-**Live Demo**: [leafy-hotteok-71c048.netlify.app](https://leafy-hotteok-71c048.netlify.app/)
+**Live Demo**: [https://cron-schedule-editor.vercel.app/])
 
 ---
 
