@@ -32,7 +32,7 @@ To run locally:
   cd cron-schedule-editor
   npm install
   npm start
-
+```
 
 ## Usage
 Just open the live demo, choose your cron schedule, and copy the expression.
