@@ -38,13 +38,4 @@ To run locally:
 Just open the live demo, choose your cron schedule, and copy the expression.
 
 ## Folder Structure
-src/
-│
-├── App.css              # App styling
-├── App.js               # Main component rendering ScheduleEditor
-├── App.test.js          # Tests (optional)
-├── ScheduleEditor.jsx   # Cron schedule editor UI logic
-├── index.css            # Global styles
-├── index.js             # Entry point
-├── reportWebVitals.js   # Performance monitoring (optional)
-└── setupTests.js        # Test setup (optional)
+<pre lang="markdown"> ``` src/ │ ├── App.css # App styling ├── App.js # Main component rendering ScheduleEditor ├── App.test.js # Tests (optional) ├── ScheduleEditor.jsx # Cron schedule editor UI logic ├── index.css # Global styles ├── index.js # Entry point ├── reportWebVitals.js # Performance monitoring (optional) └── setupTests.js # Test setup (optional) ``` </pre>
