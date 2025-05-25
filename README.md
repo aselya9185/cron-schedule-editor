@@ -43,10 +43,7 @@ Just open the live demo, choose your cron schedule, and copy the expression.
 src/
 ├── App.css             # App styling
 ├── App.js              # Main component rendering ScheduleEditor
-├── App.test.js         # Unit tests (optional)
 ├── ScheduleEditor.jsx  # Cron schedule editor UI logic
 ├── index.css           # Global styles
-├── index.js            # Application entry point
-├── reportWebVitals.js  # Performance monitoring setup (optional)
-└── setupTests.js       # Testing setup (optional)
+└── index.js            # Application entry point
 ```
