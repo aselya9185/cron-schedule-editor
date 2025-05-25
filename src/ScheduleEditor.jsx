@@ -638,7 +638,7 @@ function handleLoad() {
       </div>
 
 
-      <p style={{ marginBottom: "4px", fontStyle: "italic", color: "#666" }}>
+      <p style={{ margin: "4px", fontStyle: "italic", color: "#666" }}>
   	To load and edit a CRON expression, select the line you want to modify.
       </p>
 	    
