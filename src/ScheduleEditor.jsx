@@ -637,6 +637,10 @@ function handleLoad() {
         </button>
       </div>
 
+
+      <p style={{ marginBottom: "8px", fontStyle: "italic", color: "#666" }}>
+  	To load and edit a CRON expression, select the line you want to modify.
+      </p>
       {/* Saved CRON Textarea */}
       <div className="mt-6">
         <label className="block font-semibold mb-1 text-sm">Saved CRON expressions:</label>
